@@ -9,7 +9,7 @@
     </td>
     </td>
         <p align="left"> 
-              Tela de login, responsiva, com vários efeitos visuais, como borda inferior de cada input 'acendendo' ao ser clicada e alterando de cor caso o campo                 tenha sido devidamente preenchido. Botão de salvar com efeito reversivo do background ao passar do mouse. Validação de todos os campos com alert                     informando quando clicar em salvar sem que todos estejam preenchidos.
+              Tela de login, responsiva, com vários efeitos visuais, como borda inferior de cada input 'acendendo' ao ser clicada e alterando de cor caso o campo                 tenha sido devidamente preenchido. Botão de salvar com efeito reversivo do background ao passar do mouse. Validação de todos os campos com alert                     informando quando clicar em salvar sem que todos estejam preenchidos. Scroll 'escondido' no modo mobile.  
               <ul>
                   Desenvolvida em:
                   <li>HTML 
