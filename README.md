@@ -1,6 +1,6 @@
 # Forms examples
                                                            
-<p>Telas de login, responsivas, com vários efeitos visuais como borda inferior de cada input alterando a cor em cada tipo interação, validações de todos os campos com vários tipos e posicionamentos de mensagens de erro, ícones alertando por cor e tipo em caso de erro e/ou preenchimento correto. Scroll com efeito gradient, invisível e muito mais... Enfim... são muitos efeitos para descrevê-los aqui, vale a pena puxar e testar, ah e se possível deixe aquela estrelinha! </br></br><strong>Forte Abraço e bons estudos!</strong></br>
+<p>Telas de cadastro, responsivas, com vários efeitos visuais como borda inferior de cada input alterando a cor em cada tipo interação, validações de todos os campos com vários tipos e posicionamentos de mensagens de erro, ícones alertando por cor e tipo em caso de erro e/ou preenchimento correto. Scroll com efeito gradient, invisível e muito mais... Enfim... são muitos efeitos para descrevê-los aqui, vale a pena puxar e testar, ah e se possível deixe aquela estrelinha! </br></br><strong>Forte Abraço e bons estudos!</strong></br>
 ...mais informações >>> <a href="https://api.whatsapp.com/send?phone=5511979714423">WhatsApp</a></p>  
 
 <table>
